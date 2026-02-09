@@ -80,14 +80,13 @@ When building your tool, refer to the [**🔢 Evaluation Criteria**](https://git
 
 ### 🔧 Example Techniques
 
+- Storing and querying data (e.g., Supabase/PostgreSQL)
+- Descriptive Statistics on Chunks of Big Data
+- Quality Control Analytics
+- Building and calling REST APIs
 - Querying generative AI (OpenAI API, Ollama Cloud)
 - Prompt engineering for summaries, recommendations, or classifications
 - RAG (Retrieval Augmented Generation)
-- Function calling / tool use with LLMs
-- Building and calling REST APIs
-- Storing and querying data (e.g., Supabase/PostgreSQL)
-- Deploying apps (e.g., Posit Connect)
-- Using Cursor IDE for AI-assisted coding
 
 ### 👍 Advice
 

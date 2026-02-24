@@ -72,7 +72,7 @@ Over 24 hours, your team will build and deploy a new **AI-powered system** in re
 
 ### 👥 How to Join
 
-Form a team (max 5 members) and sign up here: https://forms.gle/PLACEHOLDER_SIGNUP_LINK
+Form a team (max 5 members) and sign up here: bit.ly/aisystemshackathon-signup
 
 Don't have a team? Sign up anyway and we will match you with a team!
 

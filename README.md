@@ -16,7 +16,7 @@
 - [🔢 Evaluation Criteria](docs/criteria.md)
 - 📚 [Resources for Building Your Tool](docs/resources.md)
 - [⁉️ Frequently Asked Questions](#-frequently-asked-questions)
-- [👥 Signup for Hackathon](https://forms.gle/PLACEHOLDER_SIGNUP_LINK)
+- [👥 Signup for Hackathon](bit.ly/aisystemshackathon-signup)
 
 ---
 

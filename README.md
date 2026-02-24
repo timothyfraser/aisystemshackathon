@@ -16,7 +16,7 @@
 - [🔢 Evaluation Criteria](docs/criteria.md)
 - 📚 [Resources for Building Your Tool](docs/resources.md)
 - [⁉️ Frequently Asked Questions](#-frequently-asked-questions)
-- [👥 Signup for Hackathon](bit.ly/aisystemshackathon-signup)
+- [👥 Signup for Hackathon](https://bit.ly/aisystemshackathon-signup)
 
 ---
 
@@ -72,7 +72,7 @@ Over 24 hours, your team will build and deploy a new **AI-powered system** in re
 
 ### 👥 How to Join
 
-Form a team (max 5 members) and sign up here: bit.ly/aisystemshackathon-signup
+Form a team (max 5 members) and sign up here: [https://bit.ly/aisystemshackathon-signup](https://bit.ly/aisystemshackathon-signup)
 
 Don't have a team? Sign up anyway and we will match you with a team!
 

@@ -4,7 +4,7 @@
 
 - When: March 6–7, 2026
 - Time: Starts Friday 3:30 PM → Ends Saturday 3:30 PM; Demo Session Saturday 2:30–3:30 PM
-- Where: Upson Hall (room TBD)
+- Where: Upson Lounge 116
 - Who: Systems Engineering MEng / MS students OR SYSEN 5381 / SYSEN 5460 participants — up to 5 per team
 
 ---

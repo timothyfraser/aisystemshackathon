@@ -13,13 +13,15 @@
 
 ## Phase II: Optional Trainings
 Plan your approach! What will your AI system do? Who's doing what?
+Based on popular vote day of, the organizers will provide live demos about several of the potential topics below.
 Groups may attend or send a delegate to any of the Optional Trainings, and/or continue working on their projects.
 
-- 3/6 4:30 PM - Optional Training: Query Generative AI (OpenAI / Ollama Cloud)
-- 3/6 5:00 PM - Optional Training: Build and Host a Free PostgreSQL Database with Supabase (and query in R/Python in ~10 min)
-- 3/6 5:30 PM - Optional Training: Build an API in R or Python
-- 3/6 6:00 PM - Optional Training: Use Cursor IDE for AI-Supported Coding
-- 3/6 6:30 PM - Optional Training: Deploy an App to the Hackathon's Posit Connect Server
+- 3/6 4:30 PM - 6:30 PM
+  - Optional Training: Query Generative AI (OpenAI / Ollama Cloud)
+  - Optional Training: Build and Host a Free PostgreSQL Database with Supabase (and query in R/Python in ~10 min)
+  - Optional Training: Build an API in R or Python
+  - Optional Training: Use Cursor IDE for AI-Supported Coding
+  - Optional Training: Deploy an App to the Hackathon's Posit Connect Server
 
 ## Phase III: Mentor Hour
 - 3/6 7:00 PM - 8:00 PM: Mentoring Sessions

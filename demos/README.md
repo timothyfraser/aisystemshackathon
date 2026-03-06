@@ -12,6 +12,8 @@ Each app demo is organized so you can test locally and prepare deployment for ei
 - 📦 [**/plumber**](plumber) - R Plumber REST API demo
 - 📦 [**/shinypy**](shinypy) - Shiny for Python demo app
 - 📦 [**/shinyr**](shinyr) - Shiny for R demo app
+
+## AI Demos
 - 🤖 [**/openai**](openai) - OpenAI API workflow demos in Python and R
 - 🦙 [**/ollamacloud**](ollamacloud) - Ollama Cloud API workflow demos in Python and R
 

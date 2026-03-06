@@ -31,7 +31,7 @@ Hackathons are great chances to build new skills. Here's a short list of suggest
 
 - ⚙️ [Cursor](https://cursor.com/) — AI-supported editor
 - 📃 Use Cursor for writing and refactoring code, generating docstrings, and debugging
-- 🔍 **Course materials**: SYSEN 5381 DSAI — productivity / Cursor rules and labs
+- 🔍 **Course materials**: [SYSEN 5381 DSAI — productivity / Cursor rules and labs](https://github.com/timothyfraser/dsai/tree/main/02_productivity)
 
 ## 🚀 Deploying to Posit Connect
 

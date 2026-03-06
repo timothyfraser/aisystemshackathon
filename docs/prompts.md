@@ -58,17 +58,7 @@ Please pick **1** of the following prompts below and create an AI-powered tool t
 
 When building your tool, refer to the [**🔢 Evaluation Criteria**](https://github.com/timothyfraser/aisystemshackathon/blob/main/docs/criteria.md) and 📚 [**Resources for Building Your Tool**](https://github.com/timothyfraser/aisystemshackathon/blob/main/docs/resources.md).
 
-#### Prompt 1: [Domain TBD at kickoff]
-
-*Content to be added at kickoff.*
-
-#### Prompt 2: [Domain TBD at kickoff]
-
-*Content to be added at kickoff.*
-
-#### Prompt 3: [Domain TBD at kickoff]
-
-*Content to be added at kickoff.*
+### COMING SOON!
 
 ---
 

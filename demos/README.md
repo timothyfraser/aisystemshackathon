@@ -3,10 +3,23 @@
 
 # Demos
 
-Use the folders in the `demos` folder to explore different types of tools you could create for the AI Systems Hackathon. Feel free to use these as starter templates — the sky is the limit!
+Use these demo folders as starter templates for the AI Systems Hackathon.  
+Each app demo is organized so you can test locally and prepare deployment for either DigitalOcean or Posit platforms.
 
-- 📦 [**/api**](api) — demo REST API with Plumber (R)
-- 📦 [**/shinyapp**](shinyapp) — demo ShinyApp dashboard (R)
+## App Demos
+
+- 📦 [**/fastapi**](fastapi) - Python FastAPI REST API demo
+- 📦 [**/plumber**](plumber) - R Plumber REST API demo
+- 📦 [**/shinypy**](shinypy) - Shiny for Python demo app
+- 📦 [**/shinyr**](shinyr) - Shiny for R demo app
+- 🤖 [**/openai**](openai) - OpenAI API workflow demos in Python and R
+- 🦙 [**/ollamacloud**](ollamacloud) - Ollama Cloud API workflow demos in Python and R
+
+## Deployment Walkthrough Docs
+
+- ☁️ [**READ_digitalocean.md**](READ_digitalocean.md)
+- 🧱 [**ACTIVITY_digitalocean_signup.md**](ACTIVITY_digitalocean_signup.md)
+- 🚀 [**ACTIVITY_digitalocean_create_app_platform.md**](ACTIVITY_digitalocean_create_app_platform.md)
 
 ---
 

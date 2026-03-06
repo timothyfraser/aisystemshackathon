@@ -34,10 +34,8 @@ In this Hackathon, you will build a tool that uses AI to solve a real-world prob
 
 ### ⚙️ Requirements
 
-1. 🚀 **Possible Outputs**: A publicly available, deployable tool, such as:
-   - A REST API (e.g., built with Plumber in R or FastAPI/Flask in Python)
-   - A Dashboard (e.g., Shiny app in R or Streamlit/Dash in Python)
-   - Another deployable app (e.g., deployed to Posit Connect)
+1. 🚀 **Possible Outputs**: A publicly available, deployable tool with:
+   - A Dashboard (e.g., Shiny app in R or Shiny in Python)
 2. 🤖 **Generative AI**: Your tool must incorporate queries to a generative AI model (OpenAI or Ollama Cloud, or similar).
 3. 📈 **2–3 test datasets** that demonstrate the tool’s effectiveness. These can be synthetic but should represent real-world data your tool would use.
 4. 📑 **A codebook and README** for your datasets and tool — what each file and variable means, and how to run the tool.

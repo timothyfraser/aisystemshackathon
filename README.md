@@ -4,7 +4,7 @@
 
 - When: March 6–7, 2026
 - Time: Starts Friday 3:30 PM → Ends Saturday 3:30 PM; Demo Session Saturday 2:30–3:30 PM
-- Where: Upson Hall (room TBD)
+- Where: Upson Lounge 116
 - Who: Systems Engineering MEng / MS students OR SYSEN 5381 / SYSEN 5460 participants — up to 5 per team
 
 ---
@@ -16,7 +16,7 @@
 - [🔢 Evaluation Criteria](docs/criteria.md)
 - 📚 [Resources for Building Your Tool](docs/resources.md)
 - [⁉️ Frequently Asked Questions](#-frequently-asked-questions)
-- [👥 Signup for Hackathon](https://forms.gle/PLACEHOLDER_SIGNUP_LINK)
+- [👥 Signup for Hackathon](https://bit.ly/aisystemshackathon-signup)
 
 ---
 
@@ -72,7 +72,7 @@ Over 24 hours, your team will build and deploy a new **AI-powered system** in re
 
 ### 👥 How to Join
 
-Form a team (max 5 members) and sign up here: https://forms.gle/PLACEHOLDER_SIGNUP_LINK
+Form a team (max 5 members) and sign up here: [https://bit.ly/aisystemshackathon-signup](https://bit.ly/aisystemshackathon-signup)
 
 Don't have a team? Sign up anyway and we will match you with a team!
 
